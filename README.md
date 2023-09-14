@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# 결과물을 사진으로 표현
-<img  src = 'images/KakaoTalk_20230610_000132005_03.jpg'>
 
 <!--
 **yoonjichae/yoonjichae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
